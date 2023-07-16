@@ -12,7 +12,7 @@
 
     <section class="home">
        <div class="box-container">
-            <h3>find your next job</h3>
+            <h3>find your next job now</h3>
            
             <p>One simple way to let everyone know you're looking for a new job 
                 is to send a letter or email message. Read tips on how to send a
